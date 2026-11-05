@@ -1,0 +1,25 @@
+{
+    "tag": "map",
+    "count": 1,
+    "potatoes": [
+        {
+            "name": "Simple Map Fun",
+            "info": "Simple Map Fun",
+            "slug": "cimple-mapfun",
+            "tags": [
+                "gis",
+                "map",
+                "event",
+                "fun"
+            ],
+            "author_name": "Bornjre",
+            "author_email": "bornjre@gmail.com",
+            "author_site": "https://github.com/bornjre",
+            "license": "MIT",
+            "current_version": "0.0.2",
+            "versions": [
+                "0.0.2"
+            ]
+        }
+    ]
+}

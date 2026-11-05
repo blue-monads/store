@@ -7,11 +7,55 @@
         "accounting",
         "books",
         "builder",
+        "event",
         "form",
-        "gis"
+        "fun",
+        "game",
+        "gis",
+        "map",
+        "potato-db:sqlite",
+        "potato-executor:luaz"
     ],
     "indexed_tag_template": "/tags/{tag}.json",
     "potatoes": [
+        {
+            "name": "Simple Map Fun",
+            "info": "Simple Map Fun",
+            "slug": "cimple-mapfun",
+            "tags": [
+                "gis",
+                "map",
+                "event",
+                "fun"
+            ],
+            "author_name": "Bornjre",
+            "author_email": "bornjre@gmail.com",
+            "author_site": "https://github.com/bornjre",
+            "license": "MIT",
+            "current_version": "0.0.2",
+            "versions": [
+                "0.0.2"
+            ]
+        },
+        {
+            "name": "cimple-potatorace",
+            "info": "Potato Race – a couch party racing game lobby",
+            "slug": "cimple-potatorace",
+            "tags": [
+                "potato-executor:luaz",
+                "potato-db:sqlite",
+                "fun",
+                "game"
+            ],
+            "author_name": "Bornjre",
+            "author_email": "bornjre@gmail.com",
+            "author_site": "https://github.com/bornjre",
+            "license": "MIT",
+            "current_version": "0.0.2",
+            "versions": [
+                "0.0.2"
+            ]
+        },
         {
             "name": "Simple Datatable",
             "info": "Simple Datatable app",
@@ -27,6 +71,60 @@
             "current_version": "0.0.1",
             "versions": [
                 "0.0.1"
+            ]
+        },
+        {
+            "name": "cimple-calender",
+            "info": "cimple-calender",
+            "slug": "cimple-calender",
+            "tags": [
+                "potato-executor:luaz",
+                "potato-db:sqlite",
+                "fun"
+            ],
+            "author_name": "Bornjre",
+            "author_email": "bornjre@gmail.com",
+            "author_site": "https://github.com/bornjre",
+            "license": "MIT",
+            "current_version": "0.0.2",
+            "versions": [
+                "0.0.2"
+            ]
+        },
+        {
+            "name": "cimple-doks",
+            "info": "cimple-doks",
+            "slug": "cimple-doks",
+            "tags": [
+                "potato-executor:luaz",
+                "potato-db:sqlite",
+                "fun"
+            ],
+            "author_name": "Bornjre",
+            "author_email": "bornjre@gmail.com",
+            "author_site": "https://github.com/bornjre",
+            "license": "MIT",
+            "current_version": "0.0.2",
+            "versions": [
+                "0.0.2"
+            ]
+        },
+        {
+            "name": "cimple-inficanvas",
+            "info": "cimple-inficanvas",
+            "slug": "cimple-inficanvas",
+            "tags": [
+                "potato-executor:luaz",
+                "potato-db:sqlite",
+                "fun"
+            ],
+            "author_name": "Bornjre",
+            "author_email": "bornjre@gmail.com",
+            "author_site": "https://github.com/bornjre",
+            "license": "MIT",
+            "current_version": "0.0.2",
+            "versions": [
+                "0.0.2"
             ]
         },
         {
@@ -64,11 +162,31 @@
             ]
         },
         {
-            "name": "Simple GIS",
-            "info": "Simple GIS app",
-            "slug": "cimple-gis",
+            "name": "cimple-autonoda",
+            "info": "cimple-autonoda",
+            "slug": "cimple-autonoda",
             "tags": [
-                "gis"
+                "potato-executor:luaz",
+                "potato-db:sqlite",
+                "fun"
+            ],
+            "author_name": "Bornjre",
+            "author_email": "bornjre@gmail.com",
+            "author_site": "https://github.com/bornjre",
+            "license": "MIT",
+            "current_version": "0.0.2",
+            "versions": [
+                "0.0.2"
+            ]
+        },
+        {
+            "name": "potato-chat",
+            "info": "potato-chat",
+            "slug": "potato-chat",
+            "tags": [
+                "potato-executor:luaz",
+                "potato-db:sqlite",
+                "fun"
             ],
             "author_name": "Bornjre",
             "author_email": "bornjre@gmail.com",
